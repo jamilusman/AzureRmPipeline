@@ -21,6 +21,6 @@ steps:
     location: 'East US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/jamilusman/AzureRmPipeline/master/AzureWebApp/main-template.json'
-    overrideParameters: '-projectName ARMPipeline'
+    overrideParameters: '-projectName armpipeline5464'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
